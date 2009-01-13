@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sp/!svn/ver/2413/2007/fall/fightinzigbees/trunk/src/test/fixtures/persisted_data_by_position
+END
+expected_output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sp/!svn/ver/2363/2007/fall/fightinzigbees/trunk/src/test/fixtures/persisted_data_by_position/expected_output.txt
+END
+expected_output_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sp/!svn/ver/2395/2007/fall/fightinzigbees/trunk/src/test/fixtures/persisted_data_by_position/expected_output_1.txt
+END
+expected_output_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sp/!svn/ver/2413/2007/fall/fightinzigbees/trunk/src/test/fixtures/persisted_data_by_position/expected_output_2.txt
+END
+test_data_by_position.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sp/!svn/ver/2330/2007/fall/fightinzigbees/trunk/src/test/fixtures/persisted_data_by_position/test_data_by_position.txt
+END

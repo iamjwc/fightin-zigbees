@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser
+END
+uint_line_delimited.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/uint_line_delimited.txt
+END
+large_uint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/large_uint.txt
+END
+uint_space_delimited.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/uint_space_delimited.txt
+END
+no_uint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/no_uint.txt
+END
+word_test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/word_test1.txt
+END
+word_test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/word_test2.txt
+END
+word_test3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/word_test3.txt
+END
+word_test4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sp/!svn/ver/2218/2007/fall/fightinzigbees/trunk/src/test/fixtures/input_stream_parser/word_test4.txt
+END

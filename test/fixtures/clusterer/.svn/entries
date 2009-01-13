@@ -1,0 +1,54 @@
+8
+
+dir
+2896
+https://code.cs.siue.edu/sp/2007/fall/fightinzigbees/trunk/src/test/fixtures/clusterer
+https://code.cs.siue.edu/sp
+
+
+
+2008-04-15T18:35:10.553128Z
+2481
+jescook
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a3e41fc5-451d-0410-a669-cd1b5cc8ac64
+
+training_data.txt
+file
+
+
+
+
+2008-05-09T03:12:52.000000Z
+a42c41a2ea0250f5d3d023ec0976dbe5
+2008-04-15T18:35:10.553128Z
+2481
+jescook
+has-props
+
+test_data.txt
+file
+
+
+
+
+2008-05-09T03:12:52.000000Z
+e4f51ad697955670313b8f2220364e27
+2008-04-05T17:18:59.140651Z
+2363
+jescook
+has-props
+
